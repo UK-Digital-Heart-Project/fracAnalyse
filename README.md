@@ -72,4 +72,4 @@ Cai J, Bryant JA, Le T-T, Su B, de Marvao A, O’Regan DP, Cook SA, Chin CW-L: F
 
 *RV analysis:*
 
-Dawes T, Cai J, Quinlan M, de Marvao A, Ostowski P, Tokarczuk P, Watson G, Wharton J, Howard L, Gibbs J, Cook S, Wilkins M and O'Regan DP. Fractal analysis of right ventricular trabeculae in pulmonary hypertension. *Radiology*. 2018, In press.
+Dawes T, Cai J, Quinlan M, de Marvao A, Ostowski P, Tokarczuk P, Watson G, Wharton J, Howard L, Gibbs J, Cook S, Wilkins M and O'Regan DP. Fractal analysis of right ventricular trabeculae in pulmonary hypertension. [*Radiology*](https://doi.org/10.1148/radiol.2018172821). 2018, 288(2):386-395.
